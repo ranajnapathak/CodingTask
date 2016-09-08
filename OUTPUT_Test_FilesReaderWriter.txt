@@ -1,0 +1,29 @@
+Test_FilesReaderWriter
+run:
+Please enter Grade for: BUNDY
+
+88
+Please enter Grade for: SMITH A
+70
+Please enter Grade for: KING
+88
+Please enter Grade for: SMITH F
+75
+Please enter Grade for: Ranjana
+100
+Before Sorting
+Name: BUNDY  Grade: 88
+Name: SMITH A  Grade: 70
+Name: KING  Grade: 88
+Name: SMITH F  Grade: 75
+Name: Ranjana  Grade: 100
+Grade: 88:::: Name: BUNDY
+Grade: 88:::: Name: KING
+Grade: 88:::: Name: BUNDY
+After Sorting
+SMITH A 70
+SMITH F 75
+BUNDY 88
+KING 88
+Ranjana 100
+BUILD SUCCESSFUL (total time: 13 seconds)
